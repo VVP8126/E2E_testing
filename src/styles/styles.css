@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.centered {
+  text-align: center;
+}
+.margined {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.centered_block {
+  margin: 0 auto;
+}
+.small_container {
+  min-width: 600px;
+  width: 50%;
+  margin: 0 auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+.user_list {
+  min-width: 550px;
+  width: 45%;
+  margin: 0 auto;
+}
+.large {
+  font-size: 20px;
+  padding: 6px 12px;
+  cursor: pointer;
+}

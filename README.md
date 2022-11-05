@@ -1,13 +1,19 @@
 # Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Original example see at (from 1h 25 min):
+https://www.youtube.com/watch?v=y2emL1fMRyY&list=PL6DxKON1uLOEbfFpZQA9aztkj-guW52jn&index=8
 
+# Use Windows PowerShell to change ExecutionPolicy: Set-ExecutionPolicy
+# Used execution policy at local machine:
+RemoteSigned
+
+## Available Scripts
 In the project directory, you can run:
 
-### `npm start`
+### Run e2e test: 'npx wdio run ./wdio.conf.js'
 
+### `npm start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
